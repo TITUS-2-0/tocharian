@@ -1,8 +1,8 @@
 # Tocharian
 [![TEI validation](https://github.com/TITUS-2-0/tocharian/actions/workflows/validate.yaml/badge.svg?branch=main)](https://github.com/TITUS-2-0/tocharian/actions/workflows/validate.yaml)
 ## Datasets
-| id    | language   | titus                                                                                                       | issue   | status         |
-|:------|:-----------|:------------------------------------------------------------------------------------------------------------|:--------|:---------------|
-| tochl | Tocharian  | [Tocharian (B) Corpus: London collection](http://titus.uni-frankfurt.de/texte/etcc/toch/tochlond/tochl.htm) | -       | 🟨 in progress |
-| tochb | Tocharian  | [Tocharian (B) Corpus](http://titus.uni-frankfurt.de/texte/etcc/toch/tochb/tochb.htm)                       | -       | 🟨 in progress |
-| tocha | Tocharian  | [Tocharian (A) Corpus](http://titus.uni-frankfurt.de/texte/etcs/toch/tocha/tocha.htm)                       | -       | 🟨 in progress |
+| id    | language   | titus                                                                                                       | metadata                                                                         | issue   | status         |
+|:------|:-----------|:------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|:--------|:---------------|
+| tochl | Tocharian  | [Tocharian (B) Corpus: London collection](http://titus.uni-frankfurt.de/texte/etcc/toch/tochlond/tochl.htm) | -                                                                                | -       | 🟨 in progress |
+| tochb | Tocharian  | [Tocharian (B) Corpus](http://titus.uni-frankfurt.de/texte/etcc/toch/tochb/tochb.htm)                       | -                                                                                | -       | 🟨 in progress |
+| tocha | Tocharian  | [Tocharian (A) Corpus](http://titus.uni-frankfurt.de/texte/etcs/toch/tocha/tocha.htm)                       | [tocha.yaml](https://github.com/TITUS-2-0/metadata/blob/main/curated/tocha.yaml) | -       | 🟨 in progress |
