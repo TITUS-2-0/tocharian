@@ -3,6 +3,6 @@
 ## Datasets
 | id    | language    | titus                                                                                                       | metadata                                                                         | issue   | status         |
 |:------|:------------|:------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|:--------|:---------------|
-| tochl | Tokharian A | [Tocharian (B) Corpus: London collection](http://titus.uni-frankfurt.de/texte/etcc/toch/tochlond/tochl.htm) | -                                                                                | -       | 🟨 in progress |
 | tochb | Tokharian A | [Tocharian (B) Corpus](http://titus.uni-frankfurt.de/texte/etcc/toch/tochb/tochb.htm)                       | -                                                                                | -       | 🟨 in progress |
+| tochl | Tokharian A | [Tocharian (B) Corpus: London collection](http://titus.uni-frankfurt.de/texte/etcc/toch/tochlond/tochl.htm) | -                                                                                | -       | 🟨 in progress |
 | tocha | Tokharian A | [Tocharian (A) Corpus](http://titus.uni-frankfurt.de/texte/etcs/toch/tocha/tocha.htm)                       | [tocha.yaml](https://github.com/TITUS-2-0/metadata/blob/main/curated/tocha.yaml) | -       | 🟨 in progress |
