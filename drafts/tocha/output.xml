@@ -51,11 +51,11 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="xto-Latn">Tokharian A</language>
-				<language ident="deu-Latn">German</language>
-				<language ident="xto-Latn-x-syllabic">Tocharian A</language>
-				<language ident="san-Latn-x-buddhist-syllabic">Sanskrit</language>
-				<language ident="san-Latn-x-buddhist-tld">Sanskrit</language>
+				<language ident="xto-Latn" ana="primary">Tokharian A</language>
+				<language ident="xto-Latn-x-syllabic" ana="secondary">Tocharian A</language>
+				<language ident="san-Latn-x-buddhist-syllabic" ana="secondary">Sanskrit</language>
+				<language ident="san-Latn-x-buddhist-tld" ana="secondary">Sanskrit</language>
+				<language ident="deu-Latn" ana="meta">German</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
