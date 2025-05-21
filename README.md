@@ -1,8 +1,8 @@
 # Tocharian
 [![TEI validation](https://github.com/TITUS-2-0/tocharian/actions/workflows/validate_data.yaml/badge.svg?branch=main)](https://github.com/TITUS-2-0/tocharian/actions/workflows/validate_data.yaml)
 ## Datasets
-| id    | language   | titus 1                                                                                                     | issue                                                      | status         |
-|:------|:-----------|:------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|:---------------|
-| tochb | xto-Latn   | [Tocharian (B) Corpus](http://titus.uni-frankfurt.de/texte/etcc/toch/tochb/tochb.htm)                       | -                                                          | 🟨 in progress |
-| tochl | xto-Latn   | [Tocharian (B) Corpus: London collection](http://titus.uni-frankfurt.de/texte/etcc/toch/tochlond/tochl.htm) | -                                                          | 🟨 in progress |
-| tocha | xto-Latn   | [Tocharian (A) Corpus](http://titus.uni-frankfurt.de/texte/etcs/toch/tocha/tocha.htm)                       | [discuss](https://github.com/TITUS-2-0/tocharian/issues/1) | 🟨 in progress |
+| id    | language   | titus 1                                                                                                     | issue                                                      | status         | documentation                                                         |
+|:------|:-----------|:------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|:---------------|:----------------------------------------------------------------------|
+| tochb | xto-Latn   | [Tocharian (B) Corpus](http://titus.uni-frankfurt.de/texte/etcc/toch/tochb/tochb.htm)                       | -                                                          | 🟨 in progress | -                                                                     |
+| tochl | xto-Latn   | [Tocharian (B) Corpus: London collection](http://titus.uni-frankfurt.de/texte/etcc/toch/tochlond/tochl.htm) | -                                                          | 🟨 in progress | -                                                                     |
+| tocha | xto-Latn   | [Tocharian (A) Corpus](http://titus.uni-frankfurt.de/texte/etcs/toch/tocha/tocha.htm)                       | [discuss](https://github.com/TITUS-2-0/tocharian/issues/1) | 🟨 in progress | [docs](https://titus2.uni-frankfurt.de/docs/tei/tocharian.html#tocha) |
